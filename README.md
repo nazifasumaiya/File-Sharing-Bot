@@ -44,7 +44,7 @@ These features are in the pipeline, and contributions from the community are wel
 
 
 ### How to Contribute
-1. Check the [contribution guidelines](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for detailed instructions.  
+1. Check the [contribution guidelines](https://github.com/nazifasumaiya/File-Sharing-Bot/main/CONTRIBUTING.md) for detailed instructions.  
 2. Pick any feature and create a new issue or comment on an existing one.  
 3. Discuss your implementation plan with maintainers to align your contributions with project goals.  
 
