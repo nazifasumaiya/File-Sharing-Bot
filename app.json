@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-     "value": "8043699772:AAHsOgVvDQXnGx5QEJSvaYGHj7brWnGybnY"
+     "value": "7757503882:AAGlm2gT5frhMUHUyJrOcOq7L7FBRVpQ74o"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -39,7 +39,7 @@
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1002409521763"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
