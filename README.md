@@ -79,6 +79,12 @@ python3 main.py
 
 /stats - checking your bot uptime
 ```
+### Public Commands
+...
+/start - Start The Bot
+/help - Help The Command Explained
+/reload - Reload The Bot 
+...
 
 ### Variables
 
